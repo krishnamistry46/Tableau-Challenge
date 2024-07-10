@@ -1,7 +1,7 @@
 # Tableau-Challenge
 # Module 18 Tableau-Challenge
 
-# Dashboard: https://public.tableau.com/app/profile/krishna.mistry4549/viz/CityBikeAnalytics_17206510210190/CityBikeStory?publish=yes
+Dashboard: https://public.tableau.com/app/profile/krishna.mistry4549/viz/CityBikeAnalytics_17206510210190/CityBikeStory?publish=yes
 
 ****Project Title: **New York Citi Bike Program Analysis**
 

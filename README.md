@@ -3,7 +3,7 @@
 
 Dashboard: https://public.tableau.com/app/profile/krishna.mistry4549/viz/CityBikeAnalytics_17206510210190/CityBikeStory?publish=yes
 
-****Project Title: **New York Citi Bike Program Analysis**
+**Project Title: New York Citi Bike Program Analysis**
 
 # **Project Description**
 This project aims to implement a dashboard or sophisticated reporting process to provide insights for city officials looking to publicize and improve the New York Citi Bike program. The project uses data collected from the Citi Bike Trip History Logs, spanning from 2016 to 2019. The analysis was conducted using Tableau to visualize various aspects such as ridership trends, gender outreach effectiveness, trip durations, and bike maintenance needs.
